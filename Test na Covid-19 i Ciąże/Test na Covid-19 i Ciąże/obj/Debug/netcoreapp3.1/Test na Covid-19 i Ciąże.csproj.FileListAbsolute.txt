@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.exe
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.deps.json
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.runtimeconfig.json
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.dll
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\bin\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.pdb
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.AssemblyInfo.cs
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.dll
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.pdb
+C:\Users\NN\Desktop\Test na Covid-19 i Ciąże\Test na Covid-19 i Ciąże\obj\Debug\netcoreapp3.1\Test na Covid-19 i Ciąże.genruntimeconfig.cache

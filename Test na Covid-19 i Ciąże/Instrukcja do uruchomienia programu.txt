@@ -1,0 +1,5 @@
+1. Wejdź w folder "Test na Covid-19 i Ciąże"
+2. Wejdź w folder "bin"
+3. Wejdź w folder "Debug"
+4. Wejdź w folder "netcoreapp3.1"
+5. Otwórz plik .exe
